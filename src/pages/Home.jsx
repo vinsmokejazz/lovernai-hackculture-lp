@@ -161,13 +161,13 @@ const Home = () => {
               viewport={defaultViewport}
             >
               <motion.p variants={staggerItem(16)}>
-                Cine AI Hackfest is a 24-hour, offline AI × Filmmaking hackathon bringing together developers, filmmakers, designers, and creative technologists to build the future of cinema with AI.
+                Cine AI Hackfest by Lorven AI Studio is a 24-hour, offline AI × Filmmaking hackathon bringing together developers and filmmakers to build the future of cinema with AI.
               </motion.p>
               <motion.p variants={staggerItem(16)}>
-                Hosted in Hyderabad, the hackathon challenges participants to create real, working prototypes across storytelling, production, editing, and film marketing—where technology meets creativity.
+                Hosted in Hyderabad, the hackathon challenges participants to create real, working prototypes across storytelling, production, editing, and film marketing where technology meets creativity.
               </motion.p>
               <motion.p variants={staggerItem(16)}>
-                Build in teams, ship bold ideas, and present to an expert jury. Top teams win cash prizes and recognition in the growing AI–film ecosystem.
+                Build in teams, ship bold ideas, and present to an expert jury. Top teams win cash prizes and recognition in the growing AI-film ecosystem.
               </motion.p>
               <motion.p className="about-tagline" variants={staggerItem(16)}>🚀 Build fast. Create boldly. Disrupt cinema with AI.</motion.p>
             </motion.div>
@@ -200,32 +200,32 @@ const Home = () => {
               viewport={defaultViewport}
             >
               <motion.p variants={staggerItem(16)}>
-                Lorven AI Studio is India's first AI-driven filmmaking platform, launched by acclaimed producer Dil Raju, known for films like DJ, V, and Game Changer.
+                Lorven AI Studio is India's first AI-driven filmmaking platform, launched by acclaimed producer Dil Raju, the creative force behind films such as DJ, Vakeel Saab, Fidaa, Balagam, and Varisu (Varasudu).
               </motion.p>
               <motion.p variants={staggerItem(16)}>
-                Built for filmmakers, writers, and producers, Lorven AI optimizes both creative and production workflows—without compromising artistic intent.
+                Built for filmmakers, writers, and producers, Lorven AI optimizes creative and production workflows while preserving artistic intent.
               </motion.p>
               <motion.p variants={staggerItem(16)}>
-                The platform brings together four powerful modules:
+                The platform unifies four powerful modules:
               </motion.p>
               
               <motion.ul className="about-list" variants={staggerItem(16)}>
                 <li>
-                  <strong>Cine Scribe</strong> — From idea to production-ready scripts
+                  <strong>Cine Scribe:</strong> From idea to production-ready scripts
                 </li>
                 <li>
-                  <strong>Cine Sketch</strong> — Instant cinematic storyboards
+                  <strong>Cine Sketch:</strong> Instant cinematic storyboards
                 </li>
                 <li>
-                  <strong>Pitch Craft</strong> — Investor- and studio-ready pitch decks, auto-generated
+                  <strong>Pitch Craft:</strong> Auto-generated pitch decks ready for investors and studios
                 </li>
                 <li>
-                  <strong>Cine Flow</strong> — End-to-end planning with scheduling, locations, and call sheets
+                  <strong>Cine Flow:</strong> Complete planning with scheduling, locations, and call sheets
                 </li>
               </motion.ul>
 
               <motion.p variants={staggerItem(16)}>
-                Lorven AI empowers creators to move faster, plan smarter, and deliver films with sharper control over timelines and budgets.
+                Lorven AI enables creators to move faster, plan smarter, and deliver films with tighter control over timelines and budgets.
               </motion.p>
             </motion.div>
           </motion.div>
