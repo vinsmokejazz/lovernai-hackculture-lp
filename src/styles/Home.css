@@ -1535,7 +1535,7 @@
 /* Tablet Portrait (600px - 767px) */
 @media (max-width: 767px) {
   .header {
-    padding: 0.6rem 1rem;
+    padding: 0.75rem 1rem;
   }
 
   .header-content {
@@ -1550,7 +1550,7 @@
   }
 
   .header-logo--hackculture {
-    height: 28px;
+    height: 30px;
     transform: translateY(-2px);
   }
 
@@ -1881,7 +1881,7 @@
 /* Mobile Large (480px - 599px) */
 @media (max-width: 599px) {
   .header {
-    padding: 0.5rem 0.75rem;
+    padding: 0.65rem 0.75rem;
   }
 
   .header-content {
@@ -1896,7 +1896,7 @@
   }
 
   .header-logo--hackculture {
-    height: 26px;
+    height: 28px;
     transform: translateY(-2px);
   }
 
@@ -2172,7 +2172,7 @@
 /* Mobile Small (320px - 479px) */
 @media (max-width: 479px) {
   .header {
-    padding: 0.4rem 0.5rem;
+    padding: 0.55rem 0.5rem;
   }
 
   .header-content {
@@ -2187,7 +2187,7 @@
   }
 
   .header-logo--hackculture {
-    height: 25px;
+    height: 27px;
     transform: translateY(-2px);
   }
 
